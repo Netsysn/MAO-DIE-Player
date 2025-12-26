@@ -45,7 +45,7 @@ tt/
 1. 克隆或下载项目
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Netsysn/MAO-DIE-Player.git
 cd tt
 ```
 
