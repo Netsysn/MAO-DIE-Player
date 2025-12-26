@@ -21,7 +21,7 @@ export function initPlaylist() {
   let isDragging = false;
   let dragTime = 0;
 
-  // 更新进度条视觉效果
+  // 更新进度条
   function updateProgressVisual(x) {
     if (!audio || !audio.duration) return;
 
