@@ -138,7 +138,7 @@ backgroundList: [
 
 ## 📄 许可证
 
-MIT License
+[MIT License](https://mit-license.org/)
 
 ## 🤝 贡献
 
@@ -146,4 +146,4 @@ MIT License
 
 ---
 
-Made with ❤️
+Made with netsysn❤️
