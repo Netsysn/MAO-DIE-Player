@@ -46,7 +46,7 @@ tt/
 
 ```bash
 git clone https://github.com/Netsysn/MAO-DIE-Player.git
-cd tt
+cd MAO-DIE-Player
 ```
 
 2. 直接用浏览器打开 `index.html` 文件
@@ -59,6 +59,8 @@ python -m http.server 8000
 
 # 使用 Node.js (http-server)
 npx http-server
+
+# 使用svscode的live server
 ```
 
 3. 访问 `http://localhost:8000`
