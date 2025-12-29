@@ -60,7 +60,7 @@ python -m http.server 8000
 # 使用 Node.js (http-server)
 npx http-server
 
-# 使用svscode的live server
+# 使用vscode的live server
 ```
 
 3. 访问 `http://localhost:8000`
